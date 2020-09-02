@@ -1,7 +1,7 @@
 # datorama-d3-word-cloud
 Custom widget for Datorama. Creates a classic word cloud.
 
-This custom widget transforms text data in your first dimension into a classic word cloud that counts the number of word ocurrences.
+This custom widget transforms text data in your first dimension into a classic word cloud that counts the number of word occurrences.
 
 Credit to Jason Davies' excellent [d3-cloud project](https://github.com/jasondavies/d3-cloud) for handling the layout algorithm.
 
